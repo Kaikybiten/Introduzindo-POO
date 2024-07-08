@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "ProggyVectorDotted",
+    "editor.fontSize": 14,
+    "editor.rulers": [
+        80
+    ],
+
+    "python.analysis.typeCheckingMode": "basic", /* Verificações básicas de tipo serão realizadas */
+    "python.linting.flake8Enabled": true, /* Esta configuração habilitando o linter flake8 (linter que segue conformes PEP 8) */
+    "python.linting.mypyEnabled": true, /* 'mypy' Verifica se o código Python está de acordo com as anotações de tipos especificadas */
+    "cSpell.enabled": false, /* Verificará a ortografia dos comentários, strings e nomes de variáveis para garantir que não haja erros tipográficos */
+    "python.testing.unittestEnabled": false, 
+    "python.testing.pytestEnabled": true,
+    "python.analysis.diagnosticSeverityOverrides": {},
+}
